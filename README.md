@@ -2,7 +2,7 @@
 
 免费、无需注册的离线六轨分离程序：**人声、吉他、钢琴、贝斯、鼓、其他伴奏**。
 
-[下载安装包（GitHub Releases）](https://github.com/madongchen57-ops/-Pujian-stems-downloads/releases/tag/v0.1.0-beta.1)
+[公开下载网页](https://pujian-six-stems.madongchen57.chatgpt.site) · [下载安装包（GitHub Releases）](https://github.com/madongchen57-ops/-Pujian-stems-downloads/releases/tag/v0.1.0-beta.1)
 
 | 系统 | 安装包 | 大小 |
 |---|---|---|
